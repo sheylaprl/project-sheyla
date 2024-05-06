@@ -1,0 +1,15 @@
+.filtercontent{
+    color: #B39B9B;
+    background-color: #040404;
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    } 
+    .loadmore{
+    background-color: #040404;
+    color: #B39B9B;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    }
